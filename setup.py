@@ -19,7 +19,7 @@ setup(
                 "division of 2 numbers.",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/ShashankVBhat/DisplayImage",
+    url="https://github.com/ShashankVBhat/Sample_Class",
     author="shashank",
     author_email="bhatshashank8@gmail.com",
     classifiers=[
