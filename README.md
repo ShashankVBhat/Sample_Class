@@ -4,13 +4,13 @@ sampleclass package is used to claculate different mathematical operations like 
 
 ## Installation
 
-You can install the sampleclass from [PyPI]:
+You can install the sampleclass from [PyPI]
 
     pip install sampleclass
 
 ## How to use
 
-sample_class has a class named Operators which consists of methods - add(), subtract(), multiply() & dividion().
+sampleclass has a class named Operators which consists of methods - add(), subtract(), multiply() & dividion().
 It accepts integers & floating numbers.
 
 Example of usage is shown below:
@@ -24,7 +24,6 @@ print(obj.multiply())
 print(obj.subtract())
 
 print(obj.division())
-
 
 Output:
 

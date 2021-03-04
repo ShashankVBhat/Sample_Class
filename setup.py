@@ -14,7 +14,7 @@ with open(os.path.join(HERE, "README.md")) as fid:
 setup(
     name="sampleclass",
     version="1.0.0",
-    description="sample_class package is used to claculate different "
+    description="sampleclass package is used to claculate different "
                 "mathematical operations like add, multiply, subtract, "
                 "division of 2 numbers.",
     long_description=README,
