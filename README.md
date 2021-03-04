@@ -15,7 +15,7 @@ It accepts integers & floating numbers.
 
 Example of usage is shown below:
 
-from sampleclass import sample_class.Operators
+from sampleclass.sample_class import Operators
 
 obj = Operators(5.0, 6.0)
 
