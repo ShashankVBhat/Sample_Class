@@ -1,3 +1,4 @@
 # Version of sample_class package
-__version__ = "1.0.2"
+from .sample_class import Operators
+__version__ = "1.0.3"
 
