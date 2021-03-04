@@ -12,7 +12,7 @@ with open(os.path.join(HERE, "README.md")) as fid:
 
 # This call to setup() does all the work
 setup(
-    name="sample_class",
+    name="sampleclass",
     version="1.0.0",
     description="sample_class package is used to claculate different "
                 "mathematical operations like add, multiply, subtract, "

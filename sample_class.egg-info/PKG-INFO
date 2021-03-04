@@ -1,0 +1,51 @@
+Metadata-Version: 2.1
+Name: sample-class
+Version: 1.0.0
+Summary: sample_class package is used to claculate different mathematical operations like add, multiply, subtract, division of 2 numbers.
+Home-page: https://github.com/ShashankVBhat/Sample_Class
+Author: shashank
+Author-email: bhatshashank8@gmail.com
+License: UNKNOWN
+Description: # sample_class
+        
+        sample_class package is used to claculate different mathematical operations like add, multiply, subtract, division of 2 numbers.
+        
+        ## Installation
+        
+        You can install the sample_class from [PyPI](https://pypi.org/project/imagedisplay/):
+        
+            pip install sample_class
+        
+        ## How to use
+        
+        sample_class has a class named Operators which consists of methods - add(), subtract(), multiply() & dividion().
+        It accepts integers & floating numbers.
+        
+        Example of usage is shown below:
+        
+        obj = Operators(5.0, 6.0)
+        
+        print(obj.add())
+        
+        print(obj.multiply())
+        
+        print(obj.subtract())
+        
+        print(obj.division())
+        
+        
+        Output:
+        
+        11.0
+        
+        30.0
+        
+        -1.0
+        
+        0.8333333333333334
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown

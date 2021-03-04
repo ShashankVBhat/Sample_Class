@@ -1,0 +1,8 @@
+README.md
+setup.py
+my_app/__init__.py
+my_app/sample_class.py
+sample_class.egg-info/PKG-INFO
+sample_class.egg-info/SOURCES.txt
+sample_class.egg-info/dependency_links.txt
+sample_class.egg-info/top_level.txt

@@ -1,12 +1,12 @@
-# sample_class
+# sampleclass
 
-sample_class package is used to claculate different mathematical operations like add, multiply, subtract, division of 2 numbers.
+sampleclass package is used to claculate different mathematical operations like add, multiply, subtract, division of 2 numbers.
 
 ## Installation
 
-You can install the sample_class from [PyPI](https://pypi.org/project/imagedisplay/):
+You can install the sampleclass from [PyPI]:
 
-    pip install sample_class
+    pip install sampleclass
 
 ## How to use
 
