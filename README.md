@@ -1,7 +1,7 @@
 # sampleclass
 
 sampleclass package is used to claculate different mathematical operations like add, multiply, subtract, division of 2 numbers.
-
+![Colour Family](https://github.com/ShashankVBhat/Sample_Class/tree/master/images/lena.jpg)
 ## Installation
 
 You can install the sampleclass from [PyPI]
